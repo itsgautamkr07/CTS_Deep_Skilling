@@ -11,5 +11,4 @@ The Factory Method Pattern provides an interface for creating objects while allo
 - Abstraction
 - Polymorphism
 
-## Status
-In Progress
+
